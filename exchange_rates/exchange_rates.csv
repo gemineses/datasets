@@ -1,4 +1,4 @@
-,Country/Currency,currency,value,date
+id,country,currency,value,date
 0,Australia Dollar,AUD,1.581627,17/12/2021
 1,Great Britain Pound,GBP,0.851619,17/12/2021
 2,Euro,EUR,1.0,17/12/2021
